@@ -48,4 +48,3 @@ greet(name)
 result = add(25, 15)
 print("Sum =", result)
 
-AM =====")
